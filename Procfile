@@ -1,1 +1,1 @@
- web: vendor/bin/heroku-php-apache2 MYIG/
+ web: vendor/bin/heroku-php-apache2 public/
